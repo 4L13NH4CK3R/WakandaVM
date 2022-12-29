@@ -27,6 +27,6 @@ The only intel you are allowed to have is;
 **Download Wakanda**  
 We need to download the VM from the source. We are getting the Virtual Machine from a popular website "VulnHub" (https://www.vulnhub.com).  
 If you are following this repo, we will be downloading the following Virtual Machine from that site;  
-!(Wakanda Virtual Machine)[https://www.vulnhub.com/entry/wakanda-1,251/]  
+(Wakanda Virtual Machine)[https://www.vulnhub.com/entry/wakanda-1,251/]  
 
 
